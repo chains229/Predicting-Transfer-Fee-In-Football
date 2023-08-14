@@ -1,3 +1,5 @@
+# Predicting Transfee Fee In Football
+
 Predicting the transfer value of players is a complex task that requires a combination of football knowledge and forecasting ability. However, with the advancement of technology and the use of machine learning and deep learning methods, predicting the transfer value of football players has become more feasible and promising.
 
 Our project will utilize football player data to construct a model for predicting transfer fees. Each player's data encompasses fundamental information (age, height, playing position, etc.), data about the performances on the pitch (number of goals, assists, injuries, etc.), individual and team awards for the player. The target attribute we will employ is the transfer value of players based on Transfermarkt's estimations.
